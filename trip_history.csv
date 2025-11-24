@@ -1,0 +1,4 @@
+Date,Vehicle,Fuel,Distance_Km,CO2_Kg,Trees_Offset
+2025-11-24 08:39:18,suv,diesel,100.0,22.0,1.1
+2025-11-24 08:40:36,motorbike,petrol,50.0,4.0,0.2
+2025-11-24 08:42:14,small_car,electric,50.0,0.0,0
