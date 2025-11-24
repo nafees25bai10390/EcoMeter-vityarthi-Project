@@ -22,3 +22,4 @@ Testing Instructions
 Test Calculation: Select Option 1 -> Enter `suv`, `diesel`, `100` (Distance). Result should be ~22.0 kg CO2.
 Test History: Select Option 2 -> Verify the trip appears in the table.
 Test Validation:** Select Option 1 -> Enter `-50` as distance. Ensure it shows an error message.
+ 
